@@ -1,0 +1,12 @@
+C:\Users\Akihiro00\Downloads\Program\Unity\LeapMotion\LeapMotionUnityChan001\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\Akihiro00\Downloads\Program\Unity\LeapMotion\LeapMotionUnityChan001\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Akihiro00\Downloads\Program\Unity\LeapMotion\LeapMotionUnityChan001\Temp\UnityVS_bin\Debug\LeapCSharp.NET3.5.dll
+C:\Users\Akihiro00\Downloads\Program\Unity\LeapMotion\LeapMotionUnityChan001\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Akihiro00\Downloads\Program\Unity\LeapMotion\LeapMotionUnityChan001\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Akihiro00\Downloads\Program\Unity\LeapMotion\LeapMotionUnityChan001\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Akihiro00\Downloads\Program\Unity\LeapMotion\LeapMotionUnityChan001\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Akihiro00\Downloads\Program\Unity\LeapMotion\LeapMotionUnityChan001\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Akihiro00\Downloads\Program\Unity\LeapMotion\LeapMotionUnityChan001\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\Akihiro00\Downloads\Program\Unity\LeapMotion\LeapMotionUnityChan001\obj\Debug\UnityVS.LeapMotionUnityChan001.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Akihiro00\Downloads\Program\Unity\LeapMotion\LeapMotionUnityChan001\obj\Debug\Assembly-CSharp.dll
+C:\Users\Akihiro00\Downloads\Program\Unity\LeapMotion\LeapMotionUnityChan001\obj\Debug\Assembly-CSharp.pdb
