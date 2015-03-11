@@ -1,5 +1,5 @@
 # LeapMotionUnityChan001
-LeapMotionUnityChan
-LeapMotionを使ったUnityゲームです。
-詳しくは
+LeapMotionUnityChan<br>
+LeapMotionを使ったUnityゲームです。<br>
+詳しくは<br>
 http://akihiro0105.web.fc2.com/Downloads-3D.html
